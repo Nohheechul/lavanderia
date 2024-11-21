@@ -2,15 +2,15 @@
 
 ## 👥 팀원
 
-### 🔥 <span style="color:#3CB371; font-family: 'Comic Sans MS', cursive, sans-serif;">엔젤릭버스터 이용호</span>
+### 🔥 <span style="color:#3CB371; font-family: 'Comic Sans MS', cursive, sans-serif;">잼민이API질질싸개 이용호</span>
 
 ### 🔫 <span style="color:#FF0000; font-family: 'Comic Sans MS', cursive, sans-serif;">청년 정치인 김건</span>
 
-### 🌈 <span style="color:#FFA500; font-family: 'Comic Sans MS', cursive, sans-serif;">성소수자 노희철</span>
+### 🌈 <span style="color:#FFA500; font-family: 'Comic Sans MS', cursive, sans-serif;">오리너구리API싸개 노희철</span>
 
-### 🌑 <span style="color:#9400D3; font-family: 'Comic Sans MS', cursive, sans-serif;">일간베스트 총괄 이관용</span>
+### 🌑 <span style="color:#9400D3; font-family: 'Comic Sans MS', cursive, sans-serif;">멋쟁이요정 이관용</span>
 
-### ⚡️ <span style="color:#FF6347; font-family: 'Comic Sans MS', cursive, sans-serif;">남성 페미니스트 대표 박민규</span>
+### ⚡️ <span style="color:#FF6347; font-family: 'Comic Sans MS', cursive, sans-serif;">렌더링요정 박민규</span>
 
 ## 🚀 프로젝트 실행 방법
 
