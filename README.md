@@ -2,19 +2,18 @@
 
 ## 👥 팀원
 
-### 🔥 <span style="color:#3CB371; font-family: 'Comic Sans MS', cursive, sans-serif;">잼민이API질질싸개 이용호</span>
+### 🔥 <span style="color:#3CB371; font-family: 'Comic Sans MS', cursive, sans-serif;"> [Back end] 이용호</span>
 
-### 🔫 <span style="color:#FF0000; font-family: 'Comic Sans MS', cursive, sans-serif;">청년 정치인 김건</span>
+### 🔫 <span style="color:#FF0000; font-family: 'Comic Sans MS', cursive, sans-serif;"> [Back end] 김건</span>
 
-### 🌈 <span style="color:#FFA500; font-family: 'Comic Sans MS', cursive, sans-serif;">오리너구리API싸개 노희철</span>
+### 🌈 <span style="color:#FFA500; font-family: 'Comic Sans MS', cursive, sans-serif;"> [Back end] 노희철</span>
 
-### 🌑 <span style="color:#9400D3; font-family: 'Comic Sans MS', cursive, sans-serif;">멋쟁이요정 이관용</span>
+### 🌑 <span style="color:#9400D3; font-family: 'Comic Sans MS', cursive, sans-serif;">[Front end] 이관용</span>
 
-### ⚡️ <span style="color:#FF6347; font-family: 'Comic Sans MS', cursive, sans-serif;">렌더링요정 박민규</span>
+### ⚡️ <span style="color:#FF6347; font-family: 'Comic Sans MS', cursive, sans-serif;">[Front end] 박민규</span>
 
 ## 🚀 프로젝트 실행 방법
 
-알아서 실행하세요
 
 ## 🐳 Docker로 실행하기
 
@@ -55,24 +54,6 @@ docker-compose down
 | Tool       | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-27384D?style=for-the-badge&logo=asana&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)                                                                                                                                                                                                            |
 
 ## 🎯서비스 핵심기능
-
-```
-👨‍👨‍👧 회원 : 로그인 | 회원가입 | 메일인증
-```
-
 <details>
 <summary>핵심기능 #1. 로그인 JWT</summary>
 <div markdown="1">
-
-> > > > > > > > > > > > > <p style="color:black">뭘봐</p>
-
-</div>
-</details>
-
-## 📖 문제가 많은 ERD
-
-🚧 공사중
-
-## 🎸 私たちのプロジェクトは台無しだった...
-
-![image](https://mblogthumb-phinf.pstatic.net/MjAyMzAyMjdfNTYg/MDAxNjc3NDI4ODkxNzg4.XxxPeBm9ltiL0iF2h0ikAzdG81pEMB4Tp-ORexO6NFog.e4zEIRUMalaHP29ukMhnfC-VtkPRZZLr-jTqXYp3ArUg.JPEG.thsldpswpf0112/봇치2.jpg?type=w800)
